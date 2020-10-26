@@ -1,4 +1,4 @@
-// Note de version : Version 0.1 du 01/12/2015 pour premiere soirée d'évaluation
+// Note de version : Version 0.1 du 01/12/2015 pour premiere évaluation
 // Utilisation du clavier Switch Managaer 16 touches:
 //  1 2 3 4
 //  x x x x
